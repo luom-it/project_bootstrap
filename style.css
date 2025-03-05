@@ -18,3 +18,10 @@
   width: 130px;
   height: 30px;
 }
+.copyright {
+  background: #000;
+}
+.sticky-footer {
+  backdrop-filter: blur(10px);
+  background-color: #f0e9e9c6;
+}
