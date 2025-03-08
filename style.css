@@ -25,3 +25,7 @@
   backdrop-filter: blur(10px);
   background-color: #f0e9e9c6;
 }
+/* single course */
+.no__line--break {
+  white-space: nowrap;
+}
